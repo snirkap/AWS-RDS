@@ -10,7 +10,8 @@
 * Support for IAM Authentication, integration with Secrets Manager
 * RDS Custom for access to and customize the underlying instance (Oracle & SQL Server)
 * Use case: Store relational datasets (RDBMS / OLTP), perform SQL queries, transactions
-* If you want to check if it pays for you to switch to rds, you can check it with this [AWS Pricing Calculater]([https://pages.github.com/](https://calculator.aws/#/addService/RDSMySQL))
+* If you want to check if it pays for you to switch to rds, you can check it with this [AWS Pricing Calculater](https://calculator.aws/#/addService/RDSMySQL)  
+  
 
 ## RDS Backups
 ### Automated backups:
